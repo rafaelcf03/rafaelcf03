@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rafael de Castro and I'm a Fullstack Developer from Brazil 🐺</h2>
+<h3 style="font-size:30px" align="left">Hi 👋! My name is Rafael de Castro and I'm a Fullstack Developer from Brazil 🐺</h3>
 
 <hr>
 
