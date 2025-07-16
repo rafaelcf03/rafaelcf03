@@ -1,10 +1,8 @@
-<h1 align="left">Hi 👋! My name is Rafael de Castro and I'm a Fullstack Developer from Brazil 🐺</h1>
-
-###
+<h3 align="left">Hi 👋! My name is Rafael de Castro and I'm a Fullstack Developer from Brazil 🐺</h3>
 
 <h2 align="left">🚀 About Me<br></h2>
 
-<h4><br>- 🐞 Creating bugs since 2022  <br>- 📚 I'm currently learning React Native  <br>- 🎯 Goals: Be a master at UX/UI and CSS  <br>- 🎲 Interesting facts: martial arts enthusiast, dark mode advocate, tabletop RPG addict and wolf/dog person</h4>
+<h4>-🐞 Creating bugs since 2022  <br>- 📚 I'm currently learning React Native  <br>- 🎯 Goals: Be a master at UX/UI and CSS  <br>- 🎲 Interesting facts: martial arts enthusiast, dark mode advocate, tabletop RPG addict and wolf/dog person</h4>
 
 <!--###
 <div align="center">
