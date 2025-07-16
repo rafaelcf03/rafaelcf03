@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h5 align="left">🚀 About Me<br><br>🐞 Creating bugs since 2022  <br>📚 I'm currently learning React Native  <br>🎯 Goals: Be a master at UX/UI and CSS  <br>🎲 Interesting facts: martial arts enthusiast, dark mode advocate, tabletop RPG addict and wolf/dog person</h5>
+<h4 align="left">🚀 About Me<br><br>🐞 Creating bugs since 2022  <br>📚 I'm currently learning React Native  <br>🎯 Goals: Be a master at UX/UI and CSS  <br>🎲 Interesting facts: martial arts enthusiast, dark mode advocate, tabletop RPG addict and wolf/dog person</h5>
 
 ###
 
