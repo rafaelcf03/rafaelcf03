@@ -12,7 +12,7 @@
   <li>🎯 Goals: Be a master at <strong>UX/UI</strong> and <strong>CSS</strong></li>
   <li>🤔 Interesting facts:
     <ul>
-      <li>🥋 Martial arts enthusiast</li>
+      <li>🥊 Martial arts enthusiast</li>
       <li>🌒 Dark mode advocate</li>
       <li>🎲 Tabletop RPG addict</li>
       <li>🐺 Wolf/dog person</li>
