@@ -1,6 +1,7 @@
 <h3 align="left">Hi 👋! My name is Rafael de Castro and I'm a Fullstack Developer from Brazil 🐺</h3>
-<hr />
+
 ###
+
 <h4 align="left">🚀 About Me<br><br>- 🐞 Creating bugs since 2022  <br>- 📚 I'm currently learning React Native  <br>- 🎯 Goals: Be a master at UX/UI and CSS  <br>- 🎲 Interesting facts: martial arts enthusiast, dark mode advocate, tabletop RPG addict and wolf/dog person</h4>
 
 <!--###
@@ -39,7 +40,7 @@
 ###
 <hr />
 <div align="left">
-  <h3>🤝 Connect with me</h3>
+  <h2>🤝 Connect with me</h2>
   
   <a href="https://discordapp.com/users/411648475810234378" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
