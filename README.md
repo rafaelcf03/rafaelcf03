@@ -4,8 +4,6 @@
   </ul>
 </div>
 
-<hr>
-
 <h2 align="left">🚀 About Me<br></h2>
 
 <h4>- 🐞 Creating bugs since 2022  <br>- 📚 I'm currently learning React Native  <br>- 🎯 Goals: Be a master at UX/UI and CSS  <br>- 🎲 Interesting facts: martial arts enthusiast, dark mode advocate, tabletop RPG addict and wolf/dog person</h4>
