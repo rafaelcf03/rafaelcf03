@@ -59,7 +59,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <h2>🎧🎶 What I listen coding or working out 🎧🎶</h2>
   
   <a href="https://open.spotify.com/user/rafaeuleos">
