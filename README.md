@@ -6,7 +6,21 @@
 
 <h2 align="left">🚀 About Me<br></h2>
 
-<h4>- 🐞 Creating bugs since 2022  <br>- 📚 I'm currently learning React Native  <br>- 🎯 Goals: Be a master at UX/UI and CSS  <br>- 🎲 Interesting facts: martial arts enthusiast, dark mode advocate, tabletop RPG addict and wolf/dog person</h4>
+<ul>
+  <li>🐞 Creating bugs since 2022</li>
+  <li>📚 I'm currently learning <strong>React Native</strong></li>
+  <li>🎯 Goals: Be a master at <strong>UX/UI</strong> and <strong>CSS</strong></li>
+  <li>🤔 Interesting facts:
+    <ul>
+      <li>🥋 Martial arts enthusiast</li>
+      <li>🌒 Dark mode advocate</li>
+      <li>🎲 Tabletop RPG addict</li>
+      <li>🐺 Wolf/dog person</li>
+    </ul>
+  </li>
+</ul>
+
+<!--<h4>- 🐞 Creating bugs since 2022  <br>- 📚 I'm currently learning React Native  <br>- 🎯 Goals: Be a master at UX/UI and CSS  <br>- 🎲 Interesting facts: martial arts enthusiast, dark mode advocate, tabletop RPG addict and wolf/dog person</h4>-->
 
 <!--###
 <div align="center">
