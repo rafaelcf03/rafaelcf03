@@ -1,4 +1,4 @@
-<div id="user-content-toc" align="center">
+<div id="user-content-toc" align="left">
   <ul>
   <summary><h1> <p> Hi 👋! My name is Rafael de Castro and I'm a Fullstack Developer from Brazil 🐺 </p> </h1></summary>
   </ul>
@@ -6,7 +6,7 @@
 
 <hr>
 
-<h3 align="left">🚀 About Me<br></h3>
+<h2 align="left">🚀 About Me<br></h2>
 
 <h4>- 🐞 Creating bugs since 2022  <br>- 📚 I'm currently learning React Native  <br>- 🎯 Goals: Be a master at UX/UI and CSS  <br>- 🎲 Interesting facts: martial arts enthusiast, dark mode advocate, tabletop RPG addict and wolf/dog person</h4>
 
