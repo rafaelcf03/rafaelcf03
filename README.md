@@ -2,7 +2,7 @@
 
 ###
 
-<br />
+<hr />
 
 <h4 align="left">🚀 About Me<br><br>- 🐞 Creating bugs since 2022  <br>- 📚 I'm currently learning React Native  <br>- 🎯 Goals: Be a master at UX/UI and CSS  <br>- 🎲 Interesting facts: martial arts enthusiast, dark mode advocate, tabletop RPG addict and wolf/dog person</h4>
 
@@ -16,7 +16,7 @@
 
 <div align="left">
   <h3>🧠 Stacks</h3>
-  <br />
+  <hr />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -44,7 +44,7 @@
 
 <div align="left">
   <h3>🤝 Connect with me</h3>
-  <br />
+  <hr />
   <a href="https://discordapp.com/users/411648475810234378" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
