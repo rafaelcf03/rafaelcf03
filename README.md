@@ -56,6 +56,8 @@
 ###
 
 <div align="center">
+  <h2>🎧🎶 What I listen coding or working out 🎧🎶</h2>
+  
   <a href="https://open.spotify.com/user/rafaeuleos">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=rafaeuleos&count=5&unique=true" alt="Spotify recently played"  />
   </a>
