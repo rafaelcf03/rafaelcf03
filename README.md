@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://portfolio-rafaels-projects-0ee2259a.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge" height="35" alt="website"  />
+    <img src="https://img.shields.io/badge/Website-5728b5?style=for-the-badge" height="35" alt="website"  />
   </a>
 </div>
 
