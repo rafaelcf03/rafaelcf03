@@ -1,6 +1,6 @@
 <div id="user-content-toc" align="left">
   <ul>
-  <summary><h1> <p> Hi 👋! My name is Rafael de Castro and I'm a Fullstack Developer from Brazil 🐺 </p> </h1></summary>
+  <summary><h1> <p> Hi 👋! I'm Rafael de Castro, a Fullstack Developer from Brazil 🐺 </p> </h1></summary>
   </ul>
 </div>
 
